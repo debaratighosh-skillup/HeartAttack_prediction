@@ -10,4 +10,4 @@ Table of content:---
 2. importing dataset
 3. creating different machine learning model (K-Nearest Neighbors, Decision Trees, Logistic Regression, Support Vector Machine, Random forest classifier)
 4. Evaluating model
-5. making decsion
+5. making decision
